@@ -364,7 +364,7 @@ node n21 {
 	hostname PC4
 	!
 	interface eth0
-	 ip address 10.0.6.20/24
+	 ip address 10.0.6.30/24
 	!
     }
     canvas c1
